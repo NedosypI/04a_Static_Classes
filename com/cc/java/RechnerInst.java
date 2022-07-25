@@ -17,6 +17,8 @@ public class RechnerInst {
 	double quotient(double a, double b){
 		return a/b;
 	}
+
+	
 	
 
 } // EoC
